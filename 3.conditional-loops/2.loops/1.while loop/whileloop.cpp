@@ -1,0 +1,15 @@
+// Question - print number 1 to 5 
+#include <iostream>
+using namespace std;
+
+int main() {
+   int count = 1;
+   while (count <= 5) {
+    cout << count << " " ;
+    count ++; // Unary operator: same as count = count + 1
+    }
+
+    cout << endl;
+    return 0;
+
+}   
