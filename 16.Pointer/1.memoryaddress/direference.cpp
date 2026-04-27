@@ -18,7 +18,7 @@ int main() {
 
     cout << ** (parptr) << endl; // double direfenrenace answer give 10
 
-    
+
 
     return 0;
 
