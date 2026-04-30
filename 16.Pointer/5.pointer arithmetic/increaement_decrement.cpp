@@ -9,7 +9,7 @@ int main() {
     int *ptr = &a;
 
     cout << ptr << endl;
-    ptr++;
+    ptr++;   // ADD bite space add 
 
     cout << ptr << endl; // hexadecimal
     return 0;
